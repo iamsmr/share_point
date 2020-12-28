@@ -1,0 +1,24 @@
+{
+  "name": "share_pint",
+  "version": "1.0.0",
+  "description": "Note sharing application",
+  "main": "App.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsmr/share_point.git"
+  },
+  "keywords": [
+    "Note",
+    "Book",
+    "motivation"
+  ],
+  "author": "Sameer Pokharel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsmr/share_point/issues"
+  },
+  "homepage": "https://github.com/iamsmr/share_point#readme"
+}
